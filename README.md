@@ -8,3 +8,4 @@ https://moncubillos.github.io/HSS1018/
 - updated copyright year
 - added id "main-page" to header
 - added href to "main-page" div incase client were to expand site- easier access to home page
+- added alt to images
