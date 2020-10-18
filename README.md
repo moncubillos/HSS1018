@@ -10,4 +10,8 @@ https://moncubillos.github.io/HSS1018/
 - added href to "main-page" div incase client were to expand site- easier access to home page
 - added alt to images
 - added nav and section tags
-- 
+- commented, renamed, and consolidated css 
+
+![Screenshot 1](assets/hss1.png?raw=true "HSS1")
+![Screenshot 2](assets/hss2.png "HSS2")
+![Screenshot 3](assets/hss3.png?raw=true "HSS3")
